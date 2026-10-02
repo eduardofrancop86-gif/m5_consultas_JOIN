@@ -8,7 +8,7 @@ El proyecto se encuentra estructurado secuencialmente por módulos:
 
 | Archivo | Módulo | Descripción |
 | :--- | :--- | :--- |
-| `PreEntrega Modulo 3 Data Analytics Eduardo_Franco.sql` | **Módulo 3** | Creación de la base de datos `Ventas_Tech_DB`, definición del esquema relacional (Tablas: `categorias`, `clientes`, `productos`, `ventas`) e inserción de datos iniciales. |
+| `m3_creacion_tablas.sql` | **Módulo 3** | Creación de la base de datos `Ventas_Tech_DB`, definición del esquema relacional (Tablas: `categorias`, `clientes`, `productos`, `ventas`) e inserción de datos iniciales. |
 | `m4_consultas_negocio.sql` | **Módulo 4** | Consultas analíticas sobre tablas individuales (Facturación mensual, ranking de productos, segmentación de clientes y análisis con `CASE`). |
 | `m5_consultas_joins.sql` | **Módulo 5** | Cruce de tablas con `JOINs` para construir la vista enriquecida para Power BI, detección de clientes y productos sin ventas, y consolidado por canal con `UNION ALL`. |
 
